@@ -10,6 +10,7 @@
   Nilai 2 = <?= $nilai2; ?>
   Ini hasil dari pemodelan dengan methode penjumlahan yaitu
   <?= $nilai1 ." + ". $nilai2 ." = ".$hasil; ?>
+  
 </body>
 
 </html>
